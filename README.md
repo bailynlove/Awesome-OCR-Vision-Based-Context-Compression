@@ -1,5 +1,12 @@
 # 📂 Awesome-OCR: Vision-Based Context Compression
 
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a>
+  <img src="https://img.shields.io/github/stars/bailynlove/Awesome-OCR-Vision-Based-Context-Compression">
+  <img src="https://img.shields.io/badge/PRs-Welcome-red">
+  <img src="https://img.shields.io/github/last-commit/bailynlove/Awesome-OCR-Vision-Based-Context-Compression">
+</p>
+
 > **This repository curates recent research (2024–2026) on text-to-vision context compression – techniques that render textual context into images to overcome language models’ context length limits. By leveraging the higher information density of visual tokens, these approaches compress long text (documents, code, or dialog histories) into compact images that multimodal models or OCR decoders can interpret.**
 
 ---
@@ -20,29 +27,25 @@
   - *Authors:* Jiale Cheng, et al. (Tsinghua & Zhipu AI)
   - *Venue:* **arXiv 2025**
   - *Tags:* `[Core Technique]`, `[3-4x Compression]`
-  - [Paper](https://arxiv.org/abs/2510.17800)
-  - [Repo](https://github.com/thu-coai/Glyph)
+  - [Paper](https://arxiv.org/abs/2510.17800) | [Repo](https://github.com/thu-coai/Glyph)
 
 - **DeepSeek-OCR: Contexts Optical Compression**
   - *Authors:* DeepSeek-AI Team
   - *Venue:* **arXiv 2025**
   - *Tags:* `[Optical Compression]`, `[DeepSeek]`
-  - [Paper](https://arxiv.org/abs/2510.18234)
-  - [Repo](https://github.com/deepseek-ai/DeepSeek-OCR) 
+  - [Paper](https://arxiv.org/abs/2510.18234) | [Repo](https://github.com/deepseek-ai/DeepSeek-OCR) 
 
 - **Vision-centric Token Compression in Large Language Model (VIST)**
   - *Authors:* Ling Xing, et al.
   - *Venue:* **arXiv 2025**
   - *Tags:* `[Token Pruning]`, `[Efficiency]`
-  - [Paper](https://arxiv.org/abs/2502.00791)
-  - [Repo](https://github.com/CSU-JPG/VIST)
+  - [Paper](https://arxiv.org/abs/2502.00791) | [Repo](https://github.com/CSU-JPG/VIST)
 
 - **Text or Pixels? It Takes Half: On the Token Efficiency of Visual Text Inputs**
   - *Authors:* Yanhong Li, et al.
   - *Venue:* **arXiv 2025**
   - *Tags:* `[Empirical Study]`, `[50% Reduction]`
-  - [Paper](https://arxiv.org/abs/2510.18279)
-  - [Repo](https://github.com/yanhong-lbh/text_or_pixels)
+  - [Paper](https://arxiv.org/abs/2510.18279) | [Repo](https://github.com/yanhong-lbh/text_or_pixels)
 
 - **Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information**
   - *Authors:* Yi Chen, et al.
@@ -60,29 +63,25 @@
   - *Authors:* Xubing Ye, et al.
   - *Venue:* **arXiv 2025**
   - *Tags:* `[Vision Compression]`
-  - [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Ye_VoCo-LLaMA_Towards_Vision_Compression_with_Large_Language_Models_CVPR_2025_paper.html)
-  - [Repo](https://github.com/Yxxxb/VoCo-LLaMA)
+  - [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Ye_VoCo-LLaMA_Towards_Vision_Compression_with_Large_Language_Models_CVPR_2025_paper.html) | [Repo](https://github.com/Yxxxb/VoCo-LLaMA)
 
 - **Global Compression Commander: Plug-and-Play Inference Acceleration for High-Resolution Large Vision-Language Models**
   - *Authors:* Xuyang Liu, et al.
   - *Venue:* **arXiv 2025**
   - *Tags:* `[Inference Acceleration]`, `[High-Resolution]`
-  - [Paper](https://arxiv.org/abs/2501.05179)
-  - [Repo](https://github.com/xuyang-liu16/GlobalCom2)
+  - [Paper](https://arxiv.org/abs/2501.05179) | [Repo](https://github.com/xuyang-liu16/GlobalCom2)
 
 - **Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal Learning**
   - *Authors:* Alex Jinpeng Wang, et al.
   - *Venue:* **arXiv 2024**
   - *Tags:* `[Multi-Modal]`, `[Extended Context]`
-  - [Paper](https://arxiv.org/abs/2406.02547)
-  - [Repo](https://fingerrec.github.io/visincontext/)
+  - [Paper](https://arxiv.org/abs/2406.02547) | [Repo](https://fingerrec.github.io/visincontext/)
 
 - **VTC-R1: Vision-Text Compression for Efficient Long-Context Reasoning**
   - *Authors:* Yibo Wang, et al.
   - *Venue:* **arXiv 2026**
   - *Tags:* `[Compression]`, `[Long-Context]`
-  - [Paper](https://arxiv.org/abs/2601.22069)
-  - [Repo](https://github.com/w-yibo/VTC-R1)
+  - [Paper](https://arxiv.org/abs/2601.22069) | [Repo](https://github.com/w-yibo/VTC-R1)
 
 - **Global Context Compression with Interleaved Vision-Text Transformation**
   - *Authors:* Dian Jiao, et al.
@@ -104,8 +103,7 @@
   - *Authors:* Yaorui Shi, et al.
   - *Venue:* **arXiv 2026**
   - *Tags:* `[Agent Memory]`, `[Layout-Aware]`
-  - [Paper](https://arxiv.org/abs/2601.21468)
-  - [Repo](https://github.com/syr-cn/MemOCR)
+  - [Paper](https://arxiv.org/abs/2601.21468) | [Repo](https://github.com/syr-cn/MemOCR)
 
 - **AgentOCR: Reimagining Agent History via Optical Self-Compression**
   - *Authors:* Lang Feng, et al.
@@ -121,8 +119,7 @@
   - *Authors:* Yuling Shi, et al.
   - *Venue:* **arXiv 2026**
   - *Tags:* `[Code]`, `[Syntax Highlighting]`, `[8x Compression]`
-  - [Paper](https://arxiv.org/abs/2602.01785)
-  - [Repo](https://github.com/YerbaPage/CodeOCR)
+  - [Paper](https://arxiv.org/abs/2602.01785) | [Repo](https://github.com/YerbaPage/CodeOCR)
 
 - **Can Vision-Language Models Handle Long-Context Code? An Empirical Study on Visual Compression**
   - *Authors:* Jianping Zhong, et al.
@@ -155,40 +152,32 @@
 *Focus: Where to test these Visual Context models.*
 
 - **MMDocBench: Benchmarking Large Vision-Language Models for Fine-Grained Visual Document Understanding**
-  - [Paper](https://arxiv.org/abs/2410.21311)
-  - [Repo](https://github.com/MMDocBench)
+  - [Paper](https://arxiv.org/abs/2410.21311) | [Repo](https://github.com/MMDocBench)
 
 - **MemoryAgentBench (2025)**
-  - [Paper](https://arxiv.org/abs/2507.05257)
-  - [Repo](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench)
+  - [Paper](https://arxiv.org/abs/2507.05257) | [Repo](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench)
 
 - **CC-OCR: A Comprehensive and Challenging OCR Benchmark for Evaluating Large Multimodal Models in Literacy**
-  - [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_CC-OCR_A_Comprehensive_and_Challenging_OCR_Benchmark_for_Evaluating_Large_ICCV_2025_paper.html)
-  - [Repo](https://huggingface.co/datasets/wulipc/CC-OCR)
+  - [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_CC-OCR_A_Comprehensive_and_Challenging_OCR_Benchmark_for_Evaluating_Large_ICCV_2025_paper.html) | [Repo](https://huggingface.co/datasets/wulipc/CC-OCR)
 
 - **OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation**
-  - [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhang_OCR_Hinders_RAG_Evaluating_the_Cascading_Impact_of_OCR_on_ICCV_2025_paper.html)
-  - [Repo](https://huggingface.co/datasets/opendatalab/OHR-Bench)
+  - [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhang_OCR_Hinders_RAG_Evaluating_the_Cascading_Impact_of_OCR_on_ICCV_2025_paper.html) | [Repo](https://huggingface.co/datasets/opendatalab/OHR-Bench)
 
 - **LVLM-Compress-Bench: Benchmarking the Broader Impact of Large Vision-Language Model Compression**
   - [Paper](https://arxiv.org/abs/2503.04982)
 
 - **LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding**
-  - [Paper](https://aclanthology.org/2024.acl-long.172/)
-  - [Repo](https://huggingface.co/datasets/zai-org/LongBench)
+  - [Paper](https://aclanthology.org/2024.acl-long.172/) | [Repo](https://huggingface.co/datasets/zai-org/LongBench)
 
 - **MMLongBench: Benchmarking Long-Context Vision-Language Models Effectively and Thoroughly**
-  - [Paper](https://arxiv.org/abs/2505.10610)
-  - [Repo](https://huggingface.co/datasets/ZhaoweiWang/MMLongBench)
+  - [Paper](https://arxiv.org/abs/2505.10610) | [Repo](https://huggingface.co/datasets/ZhaoweiWang/MMLongBench)
 
 - **LONGCODEU: Benchmarking Long-Context Language Models on
 Long Code Understanding**
-  - [Paper](https://aclanthology.org/2025.acl-long.1324.pdf)
-  - [Repo](https://huggingface.co/datasets/longcodeu/longcodeu-dataset)
+  - [Paper](https://aclanthology.org/2025.acl-long.1324.pdf) | [Repo](https://huggingface.co/datasets/longcodeu/longcodeu-dataset)
 
 - **SynthVLM: Towards High-Quality and Efficient Synthesis of Image-Caption Datasets for Vision-Language Models**
-  - [Paper](https://arxiv.org/abs/2407.20756)
-  - [Repo](https://github.com/starriver030515/synthvlm)
+  - [Paper](https://arxiv.org/abs/2407.20756) | [Repo](https://github.com/starriver030515/synthvlm)
 
 ---
 
