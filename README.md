@@ -127,6 +127,12 @@
   - *Tags:* `[Empirical Study]`, `[Code Compression]`
   - [Paper](https://www.arxiv.org/abs/2602.00746)
 
+- **When Text-as-Vision Meets Semantic IDs in Generative Recommendation: An Empirical Study**
+  - *Authors:* Shutong Qiao et al.
+  - *Venue:* **arXiv 2026**
+  - *Tags:* `[Text-as-Vision]`, `[Semantic IDs]`
+  - [Paper](https://arxiv.org/abs/2601.14697)
+
 ---
 
 ### 04. Pixel-based Language Modeling
