@@ -136,15 +136,13 @@
   - *Authors:* Kushal Tatariya, et al.
   - *Venue:* **EMNLP 2024**
   - *Tags:* `[Analysis]`, `[Pixel-only]`
-  - [Paper](https://aclanthology.org/2024.emnlp-main.194/)
-  - [Code](https://github.com/kushaltatariya/Pixology)
+  - [Paper](https://aclanthology.org/2024.emnlp-main.194/) | [Repo](https://github.com/kushaltatariya/Pixology)
 
 - **Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models **
   - *Authors:* Haoran Wei, et al.
   - *Venue:* **arXiv 2023**
   - *Tags:* `[Scaling]`, `[Vision Vocabulary]`
-  - [Paper](https://arxiv.org/abs/2312.06109)
-  - [Code](https://github.com/Ucas-HaoranWei/Vary)
+  - [Paper](https://arxiv.org/abs/2312.06109) | [Repo](https://github.com/Ucas-HaoranWei/Vary)
 
 ---
 
